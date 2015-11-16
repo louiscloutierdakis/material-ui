@@ -30,7 +30,7 @@
   },
   "homepage": "http://material-ui.com/",
   "dependencies": {
-    "react-draggable2": "git://github.com/mikepb/react-draggable.git#d3afe476285d907469874fef3e902438f8ed4f65"
+    "react-draggable2": "git://github.com/mikepb/react-draggable.git#45c972516bfc8d0750d07eab148f769e51faf59d"
   },
   "peerDependencies": {
     "react": ">=0.13",
